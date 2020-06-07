@@ -4,7 +4,7 @@ There are N students standing in a row and numbered 1 through N from left to rig
 The students are asked to form pairs for a dance competition. Each pair must consist of a boy and a girl. Two students can only form a pair if they are friends. Each student can only be part of at most one pair. What is the maximum number of pairs that can be formed?
 
 i/p:
-3-->Test cases
+3
 xy
 xyxxy
 yy
